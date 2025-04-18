@@ -2,9 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/86ddecbc-67fa-4149-9679-90fa7ca0dc01)
 
-
+<hr>
 <p>
 In my lab, I created a Windows 11 Cloud virutal machine on the Azur on my computer. 
+I have took screenshots for each steps how I create a virtual machine during free trial.
   
 </p>
 
@@ -25,6 +26,8 @@ In my lab, I created a Windows 11 Cloud virutal machine on the Azur on my comput
 <p>
   After going to the resource section, I scrolled down and created virtual machine.
 </p>
+
+<br>
 
 ![Screenshot from 2025-04-18 11-56-48](https://github.com/user-attachments/assets/fa8f390b-2e94-4d57-86c8-26939e0e1e1f)
 
