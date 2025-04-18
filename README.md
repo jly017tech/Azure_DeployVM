@@ -1,4 +1,4 @@
-<h1>Deploying Virtual machine with Microsoft Azure</h1>
+n<h1>Deploying Virtual machine with Microsoft Azure</h1>
 
 ![image](https://github.com/user-attachments/assets/86ddecbc-67fa-4149-9679-90fa7ca0dc01)
 
@@ -18,7 +18,7 @@ I have took screenshots for each steps how I create a virtual machine during fre
 </p>
 
 
-<h2>Create a VM</h2>
+<h2>Creating a virtual machine</h2>
 
 ![image](https://github.com/user-attachments/assets/9c950e22-f4d3-4023-be80-e51e3cff1c37)
 
