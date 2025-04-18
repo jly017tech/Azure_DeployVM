@@ -4,6 +4,14 @@
 
 
 <p>
-In the lab, I created virtual machine with a 
+In my lab, I created a Windows 11 Cloud virutal machine on the Azur on my computer. 
   
+</p>
+
+<h2>Azur Portoal website</h2>
+
+![image](https://github.com/user-attachments/assets/b90a6d4a-714b-41b2-96af-5bd435d3c38e)
+
+<p>
+  I logged in my credential and went to the Azur home page portal
 </p>
