@@ -11,15 +11,6 @@ I took my time to understand every details and know to get famililar with Cloud 
   
 </p>
 
-<h2>Azur Portal website</h2>
-
-![image](https://github.com/user-attachments/assets/b90a6d4a-714b-41b2-96af-5bd435d3c38e)
-
-<p>
-  I logged in my credential and went to the Azur home page portal
-</p>
-
-<br>
 
 
 <h2>Creating a virtual machine</h2>
@@ -28,8 +19,10 @@ I took my time to understand every details and know to get famililar with Cloud 
 
 
 <p>
-  After going to the resource section, I scrolled down and created virtual machine.
+  I logged in my credential and went to the Azur home page porta as an administrator and entered a default password.
+  I went to Resource page and created a virtual machine. I planned to run the virtual machine on the Microsoft edge browswer. 
 </p>
+
 
 <br>
 
@@ -41,34 +34,53 @@ I took my time to understand every details and know to get famililar with Cloud 
 <p>
   I named the virtual machine Windows11_Computer1 and selected image OS, Windows Server 2022 Datacenter: Azure
   Edition - x64 Gen2 and size Standard_B1ms -1 vcpu, 2 GiB memmory (costs $18.10/month). Another thing I did is
-  create administrator account
+  create an user and named Jly_Admin
 </p>
+
+<br>
+
 
 
 ![image](https://github.com/user-attachments/assets/a52a138a-0a03-4342-b61e-ab9aa0f411f2)
 
+
+<br>
 
 
 ![image](https://github.com/user-attachments/assets/62d5e347-685b-4684-95e9-b3a753ddee95)
 
 <p>
 
-  I configured some changes in the Networking. 
-  I selected Delete public IP and NIC when VM is deleted If I want to remove this virtual machine.
-  For the load balancing, I leave it alone default and moved to the next one.
+
+
+
 </p>
 
 
+
+<br>
 
 
 
 ![image](https://github.com/user-attachments/assets/a07fd0f7-03d0-47c9-8e37-a9b6da1735cd)
 
-<p></p>
+
+<p>
+  test
+</p>
+
+
+<br>
 
 
 ![image](https://github.com/user-attachments/assets/633d7d8c-838f-4276-a5b5-e9ea586986e7)
 
+<br>
 
 
 ![image](https://github.com/user-attachments/assets/840104e1-f8b2-419f-a618-3c1db9b879e1)
+
+
+<p>At the end of this lab, I memorized and read the cost of memory and storage usage. I created a Ubuntu virtual machine and selected few options 
+in the virtual machine setting. 
+</p>
