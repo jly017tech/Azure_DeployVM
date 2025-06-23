@@ -17,6 +17,8 @@ I have took screenshots for each steps how I create a virtual machine during fre
   I logged in my credential and went to the Azur home page portal
 </p>
 
+<br>
+
 
 <h2>Creating a virtual machine</h2>
 
@@ -56,11 +58,11 @@ I have took screenshots for each steps how I create a virtual machine during fre
 
 
 
-![image](https://github.com/user-attachments/assets/685f1a8b-c177-467f-9437-00ab474244e5)
-
 
 
 ![image](https://github.com/user-attachments/assets/a07fd0f7-03d0-47c9-8e37-a9b6da1735cd)
+
+<p></p>
 
 
 ![image](https://github.com/user-attachments/assets/633d7d8c-838f-4276-a5b5-e9ea586986e7)
