@@ -4,8 +4,10 @@
 
 <hr>
 <p>
-In my lab, I created a Windows 11 Cloud virutal machine on the Azur on my computer. 
-I have took screenshots for each steps how I create a virtual machine during free trial.
+
+
+In the Testlab, I was learning how to create a virtual machine with Microsoft Azure. While I was folloinwg the instructions step by step,
+I took my time to understand every details and know to get famililar with Cloud fundamental. I took screenshots and I put them below where you read my notes for each steps.
   
 </p>
 
