@@ -65,9 +65,6 @@ I took my time to understand every details and know to get famililar with Cloud 
 ![image](https://github.com/user-attachments/assets/a07fd0f7-03d0-47c9-8e37-a9b6da1735cd)
 
 
-<p>
-  test
-</p>
 
 
 <br>
@@ -80,6 +77,7 @@ I took my time to understand every details and know to get famililar with Cloud 
 
 ![image](https://github.com/user-attachments/assets/840104e1-f8b2-419f-a618-3c1db9b879e1)
 
+<hr>
 
 <p>At the end of this lab, I memorized and read the cost of memory and storage usage. I created a Ubuntu virtual machine and selected few options 
 in the virtual machine setting. 
